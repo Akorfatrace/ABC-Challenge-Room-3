@@ -1,5 +1,35 @@
 html {
     height: 100%;
     width: 100%;
+    
   }
+
+body {
+  background-color: grey;
+}
+
+
+h3{
+color: green;
+
+}
+
+.B{
+  color: blue;
+}
+
+.R{
+  color: red;
+}
+
+
+img{
+  padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
   
+</main>
