@@ -1,6 +1,40 @@
-html {
-    height: 100%;
-    width: 100%;
-    
-  }
-  
+/* CSS styles */
+
+body {
+  background-color: gray; /* Making the background color gray */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+h3 {
+  color: green; /* Making all h3 elements green */
+}
+
+h3#letter-O {
+  color: red; /* Making the letter O red */
+}
+
+.blue {
+  color: blue; /* Class to make text blue */
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+img {
+  width: 500px; /* Adjust the width as needed */
+  height: none;
+  margin-top: 20px;
+}
