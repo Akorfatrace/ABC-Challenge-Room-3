@@ -2,4 +2,39 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+  /* CSS styles */
+body {
+  background-color: gray; /* Making the background color gray */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: green; /* Making all h3 elements green */
+}
+
+h3 O.red {
+  color: red; /* Class to make text red */
+}
+
+.blue {
+  color: blue; /* Class to make text blue */
+}
+
+img {
+  width: 100px; /* Adjust the width as needed */
+  height: auto;
+  margin: 10px;
+}
+
+h5 {
+  cursor: pointer;
+  margin: 10px;
+  font-size: 18px;
+  color: black;
+}
